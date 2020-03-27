@@ -1,6 +1,6 @@
 class Dog 
-  def dog_in(dog)
-    @dog = dog
+  def dog_in(name)
+    @name = name
     @breed = breed
   end
 end
