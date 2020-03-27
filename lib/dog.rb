@@ -1,5 +1,5 @@
 class Dog 
-  def dog_in(dogName, breed)
+  def dog_in(dogName)
     @dogName = dogName
     if @breed == ""
       puts "Mutt"
